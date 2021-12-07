@@ -1,0 +1,35 @@
+body{
+    background: url(img.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.page-heading{
+    color: white;
+    text-align: center;
+    font-size: 65px;
+    margin-top: 15%;
+    background: rgb(0, 0, 0, 0.5);
+    text-transform: capitalize;
+    padding: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-bottom: 10%;
+    
+}
+.intro-poem {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    background:rgba(128, 117, 233, 0.60);
+    padding: 20px;
+    margin: auto;
+    width: 30vw;
+    margin-bottom: 10% !important;
+}
+.new-line{
+    display: block;
+    margin-bottom: 0px;
+}
+.img{
+    width: 400px;
+    height: auto;
+   margin-bottom: 10%;
+}
